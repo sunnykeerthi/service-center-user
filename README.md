@@ -9,7 +9,7 @@ As a service center user, one can create the below tasks.
 
 ### AWS Console
 
-1.  Navigate [here](https://github.com/sunnykeerthi/Service-center-user/blob/master/index.js) to get the code.
+1.  Navigate [here](https://github.com/sunnykeerthi/service-center-user) to get the code.
 2.  Clone the code into local repo.
 3.  Open your favorite IDE and follow the below steps.
 	1.  cd [folder name].
