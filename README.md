@@ -9,7 +9,7 @@ As a service center user, one can create the below tasks.
 
 ### AWS Console
 
-1.  Navigate [here](https://github.com/sunnykeerthi/Service-center-agent/blob/master/index.js) to get the code.
+1.  Navigate [here](https://github.com/sunnykeerthi/Service-center-user/blob/master/index.js) to get the code.
 2.  Clone the code into local repo.
 3.  Open your favorite IDE and follow the below steps.
 	1.  cd [folder name].
@@ -24,7 +24,8 @@ As a service center user, one can create the below tasks.
 		3.  Create Function.
 8.  Now a blank new function is created for us. Click **Add trigger.**
 9.  Select Alexa Skills kit from dropdown. and _Disable_ Skill ID verification and Add.  
-   ![Lambda Initial](https://s5.gifyu.com/images/LambdaInitialSetup.gif)
+
+![Lambda Initial](https://s5.gifyu.com/images/LambdaInitialSetup.gif)
 
 10. On lambda function page, scroll down select upload zip from the drop down and select the zip that was built in step 3.3.
 11.  Create 2 Environment variable and leave it blank, we’ll get back to it later.
@@ -32,8 +33,10 @@ As a service center user, one can create the below tasks.
 		2.  APP_ID
 12.  Increase the _Timer_ under _Basic Settings_ to 1min. This is to avoid timeouts during processing.
 13.  Save.
+
 ![Lambda 2](https://s5.gifyu.com/images/Lambda_2.gif)
 14.  Copy the ARN in the top right to a notepad.
+
 ![ARN](https://i.ibb.co/wS5VfpQ/Screen-Shot-2020-01-31-at-2-56-10-PM.png)
 
 
