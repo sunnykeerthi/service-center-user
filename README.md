@@ -35,6 +35,7 @@ As a service center user, one can create the below tasks.
 13.  Save.
 
 ![Lambda 2](https://s5.gifyu.com/images/Lambda_2.gif)
+
 14.  Copy the ARN in the top right to a notepad.
 
 ![ARN](https://i.ibb.co/wS5VfpQ/Screen-Shot-2020-01-31-at-2-56-10-PM.png)
@@ -42,7 +43,7 @@ As a service center user, one can create the below tasks.
 
 ### Amazon Developer Console
 
-1. Navigate to [link] for code.
+1.  Navigate to [Speech Assets](https://github.com/sunnykeerthi/Service-center-user/blob/master/SpeechAssets/speechAssets.json) for code.
 2. Login to [Developer Console](https://developer.amazon.com/).
 3. Click Developer console on top right and select Alexa Skills Kit by hovering on *Alexa* in the top ribbon.
 4. Click Create Skill, Give a Skill Name and leave the rest to default. Then you would be prompted to Choose a template, Leave it to default and Click Choose. A skill is created now.
